@@ -3,7 +3,7 @@ title: "ePortfolio Lilou Onno"
 ---
 
 Étudiante en Master d'économétrie et statistiques, parcours économétrie appliquée, à l'IAE de Nantes, ce site présente mes projets et réalisations en lien avec mes études et mes compétences en analyse statistique. Vous pouvez télécharger mon CV en cliquant sur le lien ci-dessous :  
-[CV](pdf/cv4.pdf)
+[CV](pdf/cv5.pdf)
 
 ## Profil
 
@@ -48,6 +48,7 @@ Je me considère comme une personne sérieuse, appliquée et capable de s'intég
   - Mise en rayon des produits
   - Encaissement des achats
   - Préparation et gestion de la boulangerie
+
   
 - **Gestion des commandes**  
   Grand Dauphin - Poissonerie, Hiver 2022 et 2023  
